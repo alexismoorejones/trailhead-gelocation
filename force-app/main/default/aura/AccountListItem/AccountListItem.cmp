@@ -1,0 +1,5 @@
+<!-- To display details for a single account in a list: -->
+<aura:component>
+    <aura:attribute name="account" type="Account" />
+    <li><a>{v.account.Name}</a></li>
+</aura:component>	
