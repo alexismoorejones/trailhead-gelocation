@@ -281,14 +281,14 @@
     [
         "/Users/Alexis/Dropbox (Personal)/Documents/Salesforce/Projects/Geolocation (Trailhead)/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp",
         {
+            "state": "u",
             "sourcePath": "/Users/Alexis/Dropbox (Personal)/Documents/Salesforce/Projects/Geolocation (Trailhead)/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp",
             "isDirectory": false,
-            "size": 185,
-            "modifiedTime": 1523299430891,
-            "changeTime": 1523299430891,
-            "contentHash": "970997645d9f626eed974ca24465cf4583c917e1",
             "isMetadataFile": false,
-            "state": "u"
+            "size": 184,
+            "modifiedTime": 1523350971286,
+            "changeTime": 1523350971286,
+            "contentHash": "edf859fb29db77c4199c6aa7891331c7549eb4e9"
         }
     ],
     [
@@ -636,10 +636,10 @@
             "sourcePath": "/Users/Alexis/Dropbox (Personal)/Documents/Salesforce/Projects/Geolocation (Trailhead)/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.cmp",
             "isDirectory": false,
             "isMetadataFile": false,
-            "size": 398,
-            "modifiedTime": 1523347469400,
-            "changeTime": 1523347469400,
-            "contentHash": "f30a6f1c75bd2e27c159d9fb4dd94103449eb59d"
+            "size": 180,
+            "modifiedTime": 1523351244854,
+            "changeTime": 1523351244854,
+            "contentHash": "77ee61b3f48d98d31cfd49124ebec03f133e09a2"
         }
     ],
     [
