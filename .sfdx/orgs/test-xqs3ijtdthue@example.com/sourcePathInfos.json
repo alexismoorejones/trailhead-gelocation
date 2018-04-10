@@ -32,14 +32,14 @@
     [
         "/Users/Alexis/Dropbox (Personal)/Documents/Salesforce/Projects/Geolocation (Trailhead)/geolocation/force-app/main/default",
         {
-            "state": "u",
             "sourcePath": "/Users/Alexis/Dropbox (Personal)/Documents/Salesforce/Projects/Geolocation (Trailhead)/geolocation/force-app/main/default",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 288,
             "modifiedTime": 1523184129700,
             "changeTime": 1523184129700,
-            "contentHash": "d8417619f8cb74acd7a6c2b95aaad38138801297"
+            "contentHash": "d8417619f8cb74acd7a6c2b95aaad38138801297",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
@@ -47,10 +47,10 @@
         {
             "sourcePath": "/Users/Alexis/Dropbox (Personal)/Documents/Salesforce/Projects/Geolocation (Trailhead)/geolocation/force-app/main/default/aura",
             "isDirectory": true,
-            "size": 96,
-            "modifiedTime": 1523183307776,
-            "changeTime": 1523183307776,
-            "contentHash": "4c01eade869b72bbd66cfccee570a524d94497f7",
+            "size": 160,
+            "modifiedTime": 1523186571570,
+            "changeTime": 1523186571570,
+            "contentHash": "9c98372a45cf06c7fb95ee4aa450766e3a658e86",
             "isMetadataFile": false,
             "state": "u",
             "isWorkspace": false
@@ -281,27 +281,27 @@
     [
         "/Users/Alexis/Dropbox (Personal)/Documents/Salesforce/Projects/Geolocation (Trailhead)/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp",
         {
+            "state": "u",
             "sourcePath": "/Users/Alexis/Dropbox (Personal)/Documents/Salesforce/Projects/Geolocation (Trailhead)/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp",
             "isDirectory": false,
-            "size": 155,
-            "modifiedTime": 1523183408684,
-            "changeTime": 1523183408684,
-            "contentHash": "4973781b6f5a7cdf3300fcbd0f4e944ff3c6df45",
             "isMetadataFile": false,
-            "state": "u"
+            "size": 185,
+            "modifiedTime": 1523299430891,
+            "changeTime": 1523299430891,
+            "contentHash": "970997645d9f626eed974ca24465cf4583c917e1"
         }
     ],
     [
         "/Users/Alexis/Dropbox (Personal)/Documents/Salesforce/Projects/Geolocation (Trailhead)/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp-meta.xml",
         {
+            "state": "u",
             "sourcePath": "/Users/Alexis/Dropbox (Personal)/Documents/Salesforce/Projects/Geolocation (Trailhead)/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp-meta.xml",
             "isDirectory": false,
-            "size": 246,
-            "modifiedTime": 1523183307777,
-            "changeTime": 1523183307777,
-            "contentHash": "dfe99a871ed485dfde85a92f9ef175c42e82cbc9",
             "isMetadataFile": true,
-            "state": "u"
+            "size": 228,
+            "modifiedTime": 1523299430885,
+            "changeTime": 1523299430885,
+            "contentHash": "4e03f0f0052e52e2d53bf1c3c7212f91e7206772"
         }
     ],
     [
@@ -346,131 +346,391 @@
     [
         "/Users/Alexis/Dropbox (Personal)/Documents/Salesforce/Projects/Geolocation (Trailhead)/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorController.js",
         {
+            "state": "u",
             "sourcePath": "/Users/Alexis/Dropbox (Personal)/Documents/Salesforce/Projects/Geolocation (Trailhead)/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorController.js",
             "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 64,
+            "modifiedTime": 1523299430890,
+            "changeTime": 1523299430890,
+            "contentHash": "65072628efe5f0288eba365d51e9e7c918b02897"
+        }
+    ],
+    [
+        "/Users/Alexis/Dropbox (Personal)/Documents/Salesforce/Projects/Geolocation (Trailhead)/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorHelper.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/Alexis/Dropbox (Personal)/Documents/Salesforce/Projects/Geolocation (Trailhead)/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 44,
+            "modifiedTime": 1523299430889,
+            "changeTime": 1523299430889,
+            "contentHash": "fa0ec188d1d404a7d907cd49c9dd8e2ade86c99d"
+        }
+    ],
+    [
+        "/Users/Alexis/Dropbox (Personal)/Documents/Salesforce/Projects/Geolocation (Trailhead)/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorRenderer.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/Alexis/Dropbox (Personal)/Documents/Salesforce/Projects/Geolocation (Trailhead)/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorRenderer.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 49,
+            "modifiedTime": 1523299430887,
+            "changeTime": 1523299430887,
+            "contentHash": "5c9d3500f47ee794776fbf674e09fad5e0855732"
+        }
+    ],
+    [
+        "/Users/Alexis/Dropbox (Personal)/Documents/Salesforce/Projects/Geolocation (Trailhead)/geolocation/force-app/main/default/tabs/Account_Locator.tab-meta.xml",
+        {
+            "sourcePath": "/Users/Alexis/Dropbox (Personal)/Documents/Salesforce/Projects/Geolocation (Trailhead)/geolocation/force-app/main/default/tabs/Account_Locator.tab-meta.xml",
+            "isDirectory": false,
+            "size": 267,
+            "modifiedTime": 1523184129693,
+            "changeTime": 1523184129693,
+            "contentHash": "25b4dfb9d3c91e29d9d332b9c938caefecaf96db",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/Alexis/Dropbox (Personal)/Documents/Salesforce/Projects/Geolocation (Trailhead)/geolocation/force-app/main/default/profiles/Admin.profile-meta.xml",
+        {
+            "sourcePath": "/Users/Alexis/Dropbox (Personal)/Documents/Salesforce/Projects/Geolocation (Trailhead)/geolocation/force-app/main/default/profiles/Admin.profile-meta.xml",
+            "isDirectory": false,
+            "size": 17723,
+            "modifiedTime": 1523184129706,
+            "changeTime": 1523184129706,
+            "contentHash": "9e2696b634739877d44fde67c10aa42124d7746b",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/Alexis/Dropbox (Personal)/Documents/Salesforce/Projects/Geolocation (Trailhead)/geolocation/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
+        {
+            "sourcePath": "/Users/Alexis/Dropbox (Personal)/Documents/Salesforce/Projects/Geolocation (Trailhead)/geolocation/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "size": 4680,
+            "modifiedTime": 1523184129711,
+            "changeTime": 1523184129711,
+            "contentHash": "4e8ccfd286b282fe150de41bc35253eae5e0fca5",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/Alexis/Dropbox (Personal)/Documents/Salesforce/Projects/Geolocation (Trailhead)/geolocation/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
+        {
+            "sourcePath": "/Users/Alexis/Dropbox (Personal)/Documents/Salesforce/Projects/Geolocation (Trailhead)/geolocation/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "size": 4684,
+            "modifiedTime": 1523184129714,
+            "changeTime": 1523184129714,
+            "contentHash": "52f1d0724ab23352d73de7d6da76e63ea96d449b",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/Alexis/Dropbox (Personal)/Documents/Salesforce/Projects/Geolocation (Trailhead)/geolocation/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
+        {
+            "sourcePath": "/Users/Alexis/Dropbox (Personal)/Documents/Salesforce/Projects/Geolocation (Trailhead)/geolocation/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "size": 5020,
+            "modifiedTime": 1523184129717,
+            "changeTime": 1523184129717,
+            "contentHash": "f0fb8b8ee91be2f95547e0086971edbd837ac714",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/Alexis/Dropbox (Personal)/Documents/Salesforce/Projects/Geolocation (Trailhead)/geolocation/force-app/main/default/tabs",
+        {
+            "sourcePath": "/Users/Alexis/Dropbox (Personal)/Documents/Salesforce/Projects/Geolocation (Trailhead)/geolocation/force-app/main/default/tabs",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1523184129692,
+            "changeTime": 1523184129692,
+            "contentHash": "e07904c1411fc5069c20a25aedc7d6bdcade7b1f",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/Alexis/Dropbox (Personal)/Documents/Salesforce/Projects/Geolocation (Trailhead)/geolocation/force-app/main/default/profiles",
+        {
+            "sourcePath": "/Users/Alexis/Dropbox (Personal)/Documents/Salesforce/Projects/Geolocation (Trailhead)/geolocation/force-app/main/default/profiles",
+            "isDirectory": true,
+            "size": 192,
+            "modifiedTime": 1523184129717,
+            "changeTime": 1523184129717,
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/Alexis/Dropbox (Personal)/Documents/Salesforce/Projects/Geolocation (Trailhead)/geolocation/force-app/main/default/aura/AccountList",
+        {
+            "sourcePath": "/Users/Alexis/Dropbox (Personal)/Documents/Salesforce/Projects/Geolocation (Trailhead)/geolocation/force-app/main/default/aura/AccountList",
+            "isDirectory": true,
+            "size": 352,
+            "modifiedTime": 1523186571574,
+            "changeTime": 1523186571574,
+            "contentHash": "8560224a9375f41dec7cfcf002b9144a4be27670",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/Alexis/Dropbox (Personal)/Documents/Salesforce/Projects/Geolocation (Trailhead)/geolocation/force-app/main/default/aura/AccountListItem",
+        {
+            "sourcePath": "/Users/Alexis/Dropbox (Personal)/Documents/Salesforce/Projects/Geolocation (Trailhead)/geolocation/force-app/main/default/aura/AccountListItem",
+            "isDirectory": true,
+            "size": 352,
+            "modifiedTime": 1523184648552,
+            "changeTime": 1523184648552,
+            "contentHash": "b91ae3f4051e8ad6d6e106dc2074d49668f7c2cf",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/Alexis/Dropbox (Personal)/Documents/Salesforce/Projects/Geolocation (Trailhead)/geolocation/force-app/main/default/aura/AccountList/AccountList.auradoc",
+        {
+            "sourcePath": "/Users/Alexis/Dropbox (Personal)/Documents/Salesforce/Projects/Geolocation (Trailhead)/geolocation/force-app/main/default/aura/AccountList/AccountList.auradoc",
+            "isDirectory": false,
+            "size": 209,
+            "modifiedTime": 1523186571574,
+            "changeTime": 1523186571574,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/Alexis/Dropbox (Personal)/Documents/Salesforce/Projects/Geolocation (Trailhead)/geolocation/force-app/main/default/aura/AccountList/AccountList.cmp",
+        {
+            "sourcePath": "/Users/Alexis/Dropbox (Personal)/Documents/Salesforce/Projects/Geolocation (Trailhead)/geolocation/force-app/main/default/aura/AccountList/AccountList.cmp",
+            "isDirectory": false,
+            "size": 394,
+            "modifiedTime": 1523297680591,
+            "changeTime": 1523297680591,
+            "contentHash": "7fbe8a2eea7d89bd029c716b50a8937dab03abc6",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/Alexis/Dropbox (Personal)/Documents/Salesforce/Projects/Geolocation (Trailhead)/geolocation/force-app/main/default/aura/AccountList/AccountList.cmp-meta.xml",
+        {
+            "sourcePath": "/Users/Alexis/Dropbox (Personal)/Documents/Salesforce/Projects/Geolocation (Trailhead)/geolocation/force-app/main/default/aura/AccountList/AccountList.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 243,
+            "modifiedTime": 1523186571571,
+            "changeTime": 1523186571571,
+            "contentHash": "097217b3ba1af8c1528aade539f9c16360a85db1",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/Alexis/Dropbox (Personal)/Documents/Salesforce/Projects/Geolocation (Trailhead)/geolocation/force-app/main/default/aura/AccountList/AccountList.css",
+        {
+            "sourcePath": "/Users/Alexis/Dropbox (Personal)/Documents/Salesforce/Projects/Geolocation (Trailhead)/geolocation/force-app/main/default/aura/AccountList/AccountList.css",
+            "isDirectory": false,
+            "size": 109,
+            "modifiedTime": 1523298028366,
+            "changeTime": 1523298028366,
+            "contentHash": "0b86c01138c6e4a3a2daea87d712547e93acb64f",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/Alexis/Dropbox (Personal)/Documents/Salesforce/Projects/Geolocation (Trailhead)/geolocation/force-app/main/default/aura/AccountList/AccountList.design",
+        {
+            "sourcePath": "/Users/Alexis/Dropbox (Personal)/Documents/Salesforce/Projects/Geolocation (Trailhead)/geolocation/force-app/main/default/aura/AccountList/AccountList.design",
+            "isDirectory": false,
+            "size": 40,
+            "modifiedTime": 1523186571574,
+            "changeTime": 1523186571574,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/Alexis/Dropbox (Personal)/Documents/Salesforce/Projects/Geolocation (Trailhead)/geolocation/force-app/main/default/aura/AccountList/AccountList.svg",
+        {
+            "sourcePath": "/Users/Alexis/Dropbox (Personal)/Documents/Salesforce/Projects/Geolocation (Trailhead)/geolocation/force-app/main/default/aura/AccountList/AccountList.svg",
+            "isDirectory": false,
+            "size": 661,
+            "modifiedTime": 1523186571573,
+            "changeTime": 1523186571573,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/Alexis/Dropbox (Personal)/Documents/Salesforce/Projects/Geolocation (Trailhead)/geolocation/force-app/main/default/aura/AccountList/AccountListController.js",
+        {
+            "sourcePath": "/Users/Alexis/Dropbox (Personal)/Documents/Salesforce/Projects/Geolocation (Trailhead)/geolocation/force-app/main/default/aura/AccountList/AccountListController.js",
+            "isDirectory": false,
             "size": 65,
-            "modifiedTime": 1523183307778,
-            "changeTime": 1523183307778,
+            "modifiedTime": 1523186571571,
+            "changeTime": 1523186571571,
             "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf",
             "isMetadataFile": false,
             "state": "u"
         }
     ],
     [
-        "/Users/Alexis/Dropbox (Personal)/Documents/Salesforce/Projects/Geolocation (Trailhead)/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorHelper.js",
+        "/Users/Alexis/Dropbox (Personal)/Documents/Salesforce/Projects/Geolocation (Trailhead)/geolocation/force-app/main/default/aura/AccountList/AccountListHelper.js",
         {
-            "sourcePath": "/Users/Alexis/Dropbox (Personal)/Documents/Salesforce/Projects/Geolocation (Trailhead)/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorHelper.js",
+            "sourcePath": "/Users/Alexis/Dropbox (Personal)/Documents/Salesforce/Projects/Geolocation (Trailhead)/geolocation/force-app/main/default/aura/AccountList/AccountListHelper.js",
             "isDirectory": false,
-            "size": 45,
-            "modifiedTime": 1523183307779,
-            "changeTime": 1523183307779,
-            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "size": 256,
+            "modifiedTime": 1523297968712,
+            "changeTime": 1523297968712,
+            "contentHash": "f74ea76007ce2780882fd4258d16c3a57ab56c84",
             "isMetadataFile": false,
             "state": "u"
         }
     ],
     [
-        "/Users/Alexis/Dropbox (Personal)/Documents/Salesforce/Projects/Geolocation (Trailhead)/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorRenderer.js",
+        "/Users/Alexis/Dropbox (Personal)/Documents/Salesforce/Projects/Geolocation (Trailhead)/geolocation/force-app/main/default/aura/AccountList/AccountListRenderer.js",
         {
-            "sourcePath": "/Users/Alexis/Dropbox (Personal)/Documents/Salesforce/Projects/Geolocation (Trailhead)/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorRenderer.js",
+            "sourcePath": "/Users/Alexis/Dropbox (Personal)/Documents/Salesforce/Projects/Geolocation (Trailhead)/geolocation/force-app/main/default/aura/AccountList/AccountListRenderer.js",
             "isDirectory": false,
             "size": 50,
-            "modifiedTime": 1523183307779,
-            "changeTime": 1523183307779,
+            "modifiedTime": 1523186571573,
+            "changeTime": 1523186571573,
             "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
             "isMetadataFile": false,
             "state": "u"
         }
     ],
     [
-        "/Users/Alexis/Dropbox (Personal)/Documents/Salesforce/Projects/Geolocation (Trailhead)/geolocation/force-app/main/default/tabs/Account_Locator.tab-meta.xml",
+        "/Users/Alexis/Dropbox (Personal)/Documents/Salesforce/Projects/Geolocation (Trailhead)/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.auradoc",
         {
-            "state": "u",
-            "sourcePath": "/Users/Alexis/Dropbox (Personal)/Documents/Salesforce/Projects/Geolocation (Trailhead)/geolocation/force-app/main/default/tabs/Account_Locator.tab-meta.xml",
+            "sourcePath": "/Users/Alexis/Dropbox (Personal)/Documents/Salesforce/Projects/Geolocation (Trailhead)/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.auradoc",
             "isDirectory": false,
-            "isMetadataFile": true,
-            "size": 267,
-            "modifiedTime": 1523184129693,
-            "changeTime": 1523184129693,
-            "contentHash": "25b4dfb9d3c91e29d9d332b9c938caefecaf96db"
-        }
-    ],
-    [
-        "/Users/Alexis/Dropbox (Personal)/Documents/Salesforce/Projects/Geolocation (Trailhead)/geolocation/force-app/main/default/profiles/Admin.profile-meta.xml",
-        {
-            "state": "u",
-            "sourcePath": "/Users/Alexis/Dropbox (Personal)/Documents/Salesforce/Projects/Geolocation (Trailhead)/geolocation/force-app/main/default/profiles/Admin.profile-meta.xml",
-            "isDirectory": false,
-            "isMetadataFile": true,
-            "size": 17723,
-            "modifiedTime": 1523184129706,
-            "changeTime": 1523184129706,
-            "contentHash": "9e2696b634739877d44fde67c10aa42124d7746b"
-        }
-    ],
-    [
-        "/Users/Alexis/Dropbox (Personal)/Documents/Salesforce/Projects/Geolocation (Trailhead)/geolocation/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
-        {
-            "state": "u",
-            "sourcePath": "/Users/Alexis/Dropbox (Personal)/Documents/Salesforce/Projects/Geolocation (Trailhead)/geolocation/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
-            "isDirectory": false,
-            "isMetadataFile": true,
-            "size": 4680,
-            "modifiedTime": 1523184129711,
-            "changeTime": 1523184129711,
-            "contentHash": "4e8ccfd286b282fe150de41bc35253eae5e0fca5"
-        }
-    ],
-    [
-        "/Users/Alexis/Dropbox (Personal)/Documents/Salesforce/Projects/Geolocation (Trailhead)/geolocation/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
-        {
-            "state": "u",
-            "sourcePath": "/Users/Alexis/Dropbox (Personal)/Documents/Salesforce/Projects/Geolocation (Trailhead)/geolocation/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
-            "isDirectory": false,
-            "isMetadataFile": true,
-            "size": 4684,
-            "modifiedTime": 1523184129714,
-            "changeTime": 1523184129714,
-            "contentHash": "52f1d0724ab23352d73de7d6da76e63ea96d449b"
-        }
-    ],
-    [
-        "/Users/Alexis/Dropbox (Personal)/Documents/Salesforce/Projects/Geolocation (Trailhead)/geolocation/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
-        {
-            "state": "u",
-            "sourcePath": "/Users/Alexis/Dropbox (Personal)/Documents/Salesforce/Projects/Geolocation (Trailhead)/geolocation/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
-            "isDirectory": false,
-            "isMetadataFile": true,
-            "size": 5020,
-            "modifiedTime": 1523184129717,
-            "changeTime": 1523184129717,
-            "contentHash": "f0fb8b8ee91be2f95547e0086971edbd837ac714"
-        }
-    ],
-    [
-        "/Users/Alexis/Dropbox (Personal)/Documents/Salesforce/Projects/Geolocation (Trailhead)/geolocation/force-app/main/default/tabs",
-        {
-            "state": "u",
-            "sourcePath": "/Users/Alexis/Dropbox (Personal)/Documents/Salesforce/Projects/Geolocation (Trailhead)/geolocation/force-app/main/default/tabs",
-            "isDirectory": true,
+            "size": 209,
+            "modifiedTime": 1523184648551,
+            "changeTime": 1523184648551,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
             "isMetadataFile": false,
-            "size": 96,
-            "modifiedTime": 1523184129692,
-            "changeTime": 1523184129692,
-            "contentHash": "e07904c1411fc5069c20a25aedc7d6bdcade7b1f"
+            "state": "u"
         }
     ],
     [
-        "/Users/Alexis/Dropbox (Personal)/Documents/Salesforce/Projects/Geolocation (Trailhead)/geolocation/force-app/main/default/profiles",
+        "/Users/Alexis/Dropbox (Personal)/Documents/Salesforce/Projects/Geolocation (Trailhead)/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.cmp",
         {
-            "state": "u",
-            "sourcePath": "/Users/Alexis/Dropbox (Personal)/Documents/Salesforce/Projects/Geolocation (Trailhead)/geolocation/force-app/main/default/profiles",
-            "isDirectory": true,
+            "sourcePath": "/Users/Alexis/Dropbox (Personal)/Documents/Salesforce/Projects/Geolocation (Trailhead)/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.cmp",
+            "isDirectory": false,
+            "size": 186,
+            "modifiedTime": 1523297424467,
+            "changeTime": 1523297424467,
+            "contentHash": "16765a3e10a5c0a211b648b6390706a1fbc4f6d5",
             "isMetadataFile": false,
-            "size": 192,
-            "modifiedTime": 1523184129717,
-            "changeTime": 1523184129717,
-            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717"
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/Alexis/Dropbox (Personal)/Documents/Salesforce/Projects/Geolocation (Trailhead)/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.cmp-meta.xml",
+        {
+            "sourcePath": "/Users/Alexis/Dropbox (Personal)/Documents/Salesforce/Projects/Geolocation (Trailhead)/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 247,
+            "modifiedTime": 1523184648548,
+            "changeTime": 1523184648548,
+            "contentHash": "61b99c0717861f0069c29bfab5593f8b10d81b8f",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/Alexis/Dropbox (Personal)/Documents/Salesforce/Projects/Geolocation (Trailhead)/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.css",
+        {
+            "sourcePath": "/Users/Alexis/Dropbox (Personal)/Documents/Salesforce/Projects/Geolocation (Trailhead)/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.css",
+            "isDirectory": false,
+            "size": 168,
+            "modifiedTime": 1523297453433,
+            "changeTime": 1523297453433,
+            "contentHash": "28b0ed4fe984a051f5f2f586c4d4d1a2b303a706",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/Alexis/Dropbox (Personal)/Documents/Salesforce/Projects/Geolocation (Trailhead)/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.design",
+        {
+            "sourcePath": "/Users/Alexis/Dropbox (Personal)/Documents/Salesforce/Projects/Geolocation (Trailhead)/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.design",
+            "isDirectory": false,
+            "size": 40,
+            "modifiedTime": 1523184648552,
+            "changeTime": 1523184648552,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/Alexis/Dropbox (Personal)/Documents/Salesforce/Projects/Geolocation (Trailhead)/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.svg",
+        {
+            "sourcePath": "/Users/Alexis/Dropbox (Personal)/Documents/Salesforce/Projects/Geolocation (Trailhead)/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.svg",
+            "isDirectory": false,
+            "size": 661,
+            "modifiedTime": 1523184648551,
+            "changeTime": 1523184648551,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/Alexis/Dropbox (Personal)/Documents/Salesforce/Projects/Geolocation (Trailhead)/geolocation/force-app/main/default/aura/AccountListItem/AccountListItemController.js",
+        {
+            "sourcePath": "/Users/Alexis/Dropbox (Personal)/Documents/Salesforce/Projects/Geolocation (Trailhead)/geolocation/force-app/main/default/aura/AccountListItem/AccountListItemController.js",
+            "isDirectory": false,
+            "size": 65,
+            "modifiedTime": 1523184648549,
+            "changeTime": 1523184648549,
+            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/Alexis/Dropbox (Personal)/Documents/Salesforce/Projects/Geolocation (Trailhead)/geolocation/force-app/main/default/aura/AccountListItem/AccountListItemHelper.js",
+        {
+            "sourcePath": "/Users/Alexis/Dropbox (Personal)/Documents/Salesforce/Projects/Geolocation (Trailhead)/geolocation/force-app/main/default/aura/AccountListItem/AccountListItemHelper.js",
+            "isDirectory": false,
+            "size": 45,
+            "modifiedTime": 1523184648549,
+            "changeTime": 1523184648549,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/Alexis/Dropbox (Personal)/Documents/Salesforce/Projects/Geolocation (Trailhead)/geolocation/force-app/main/default/aura/AccountListItem/AccountListItemRenderer.js",
+        {
+            "sourcePath": "/Users/Alexis/Dropbox (Personal)/Documents/Salesforce/Projects/Geolocation (Trailhead)/geolocation/force-app/main/default/aura/AccountListItem/AccountListItemRenderer.js",
+            "isDirectory": false,
+            "size": 50,
+            "modifiedTime": 1523184648550,
+            "changeTime": 1523184648550,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ]
 ]
