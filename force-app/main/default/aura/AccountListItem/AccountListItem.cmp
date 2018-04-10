@@ -1,10 +1,5 @@
 <!-- To display details for a single account in a list: -->
-<aura:component controller="AccountController">
-    <aura:attribute name="accounts" type="Account[]"/>
-    <aura:handler name="init" value="{!this}" action="{!c.doInit}"/>
-    <ul>
-    <aura:iteration items="{!v.accounts}" var="account">
-        <c:AccountListItem account="{!account}"/>
-    </aura:iteration>
-    </ul>
+<aura:component>
+  <aura:attribute name="account" type="Account"/>
+  <li><a>{!v.account.Name}</a></li>
 </aura:component>
