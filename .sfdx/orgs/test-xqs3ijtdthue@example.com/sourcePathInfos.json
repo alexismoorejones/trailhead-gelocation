@@ -45,15 +45,15 @@
     [
         "/Users/Alexis/Dropbox (Personal)/Documents/Salesforce/Projects/Geolocation (Trailhead)/geolocation/force-app/main/default/aura",
         {
-            "state": "u",
             "sourcePath": "/Users/Alexis/Dropbox (Personal)/Documents/Salesforce/Projects/Geolocation (Trailhead)/geolocation/force-app/main/default/aura",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 192,
             "modifiedTime": 1523346560144,
             "changeTime": 1523346560144,
-            "isWorkspace": false,
-            "contentHash": "9326376ac7a83fa55b6297fd323171c02c6fa6d0"
+            "contentHash": "9326376ac7a83fa55b6297fd323171c02c6fa6d0",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
         }
     ],
     [
@@ -636,10 +636,10 @@
             "sourcePath": "/Users/Alexis/Dropbox (Personal)/Documents/Salesforce/Projects/Geolocation (Trailhead)/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.cmp",
             "isDirectory": false,
             "isMetadataFile": false,
-            "size": 397,
-            "modifiedTime": 1523347073577,
-            "changeTime": 1523347073577,
-            "contentHash": "9a2f18dd02b4dab107fb53cb02ecc657506bf7be"
+            "size": 398,
+            "modifiedTime": 1523347469400,
+            "changeTime": 1523347469400,
+            "contentHash": "f30a6f1c75bd2e27c159d9fb4dd94103449eb59d"
         }
     ],
     [
